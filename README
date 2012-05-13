@@ -1,0 +1,1 @@
+This program is a simple steganografi program. It is writen i C++, and "hides" data inside BMP image files. It only works with 24-bits depth BMP images.
